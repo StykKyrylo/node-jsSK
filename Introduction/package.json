@@ -1,0 +1,15 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "lab1",
+  "main": "playground/task01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "yargs": "^17.6.2"
+  }
+}
